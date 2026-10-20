@@ -1,0 +1,10 @@
+node_modules/
+dist/
+build/
+*.log
+.DS_Store
+.claude/
+.env
+# user projects and reference material stay local
+workspace/
+sample overleaf page/
